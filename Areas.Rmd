@@ -19,3 +19,11 @@ Area <- pi*r^2
 Lado <- 3
 Areacuadrado <- Lado^2
 ```
+
+# Área del triangulo
+```{r}
+b <- 4
+h <- 5
+AreaTriangulo <- (b*h)/2
+```
+
