@@ -39,6 +39,6 @@ AreaRectangulo <- b*h
 B <- 6
 b <- 3
 H <- 5
-AreaTrapecio <- ((b+B)*H)/2
+AreaTrap <- ((b+B)*H)/2
 ```
 
